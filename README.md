@@ -14,6 +14,3 @@ I will finish this project (at least make it available) using React by September
 - [ ] main webpage
 - [ ] project page
 - [ ] light/dark mode
-
-## test
-
