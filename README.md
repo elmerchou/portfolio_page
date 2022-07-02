@@ -9,3 +9,9 @@ I will finish this project (at least make it available) using React by September
 - React.js
 - chakra-ui
 - 3D modeling(three.js)
+
+## Roadmap
+- [ ] main webpage
+- [ ] project page
+- [ ] light/dark mode
+
